@@ -1,0 +1,24 @@
+.first {
+    position:fixed;
+    width: 200px;
+    height: 200px;
+    left: 40px;
+  }
+  .second {
+    position:fixed;
+    width: 1000px;
+    height: 50px;
+    top: 5px;
+  }
+  .third {
+    position:fixed;
+    width: 240px;
+     right: 20px;
+  }
+   .row{
+    display:flex
+   }
+   .column{
+    flex:33.33%;
+    padding: 5px:
+   }
